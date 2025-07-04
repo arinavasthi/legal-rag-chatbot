@@ -1,7 +1,10 @@
 streamlit
 langchain
-faiss-cpu
+langchain-community
 sentence-transformers
+transformers
+faiss-cpu
+torch
 PyMuPDF
 python-docx
-huggingface_hub
+python-dotenv
